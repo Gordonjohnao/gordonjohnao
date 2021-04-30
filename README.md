@@ -14,7 +14,7 @@ If you found value in something I have created, please feel free to give me a sh
 <a href="https://www.linkedin.com/in/gordon-johnsons/"><img height="30" src="https://github.com/Gordonjohnao/Gordonjohnao/blob/main/linkedin.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/Gordonjohnao"><img height="30" src="https://github.com/Gordonjohnao/Gordonjohnao/blob/main/twitter.png"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/aman.anku3/"><img height="30" src="https://github.com/Gordonjohnao/Gordonjohnao/blob/main/instagram.png"></a>&nbsp;&nbsp;
-<a href="mailto:amankumaranku@gmail.com"><img height="30" src="https://github.com/Gordonjohnao/Gordonjohnao/blob/main/mail.png"></a>
+<a href="mailto:gordonjohnao@gmail.com"><img height="30" src="https://github.com/Gordonjohnao/Gordonjohnao/blob/main/mail.png"></a>
 </p>
 
 <a href="https://profile.codersrank.io/user/Gordonjohnao"><img width="494px" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Gordonjohnao&layout=horizontal&badges=3&show-avatar=true&min-width=494px&branding=false&style=--bg-color:%23fff;--border:1px%20solid%23e4e2e2;--border-radius:4px;--header-padding:20px;--header-bg-color:%232f80ed;--name-font-size:18px;--name-font-weight:bold;--rank-font-size:14px;--preloader-color:%232f80ed;--badges-padding:20px;--badge-box-shadow:none;--badge-border:1px%20solid%23e4e2e2;--badge-rank-font-size:12px;--badge-location-font-size:12px;--badge-padding:10px;--badge-margin:10px;--badge-icon-size:16px;--badge-technology-font-size:14px;--badge-technology-font-weight:normal)" /></a>
