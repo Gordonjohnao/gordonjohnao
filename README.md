@@ -13,7 +13,7 @@ If you found value in something I have created, please feel free to give me a sh
 <p align='center'>
 <a href="https://www.linkedin.com/in/gordon-johnsons/"><img height="30" src="https://github.com/Gordonjohnao/Gordonjohnao/blob/main/linkedin.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/Gordonjohnao"><img height="30" src="https://github.com/Gordonjohnao/Gordonjohnao/blob/main/twitter.png"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/aman.anku3/"><img height="30" src="https://github.com/Gordonjohnao/Gordonjohnao/blob/main/instagram.png"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/querysoftke/"><img height="30" src="https://github.com/Gordonjohnao/Gordonjohnao/blob/main/instagram.png"></a>&nbsp;&nbsp;
 <a href="mailto:gordonjohnao@gmail.com"><img height="30" src="https://github.com/Gordonjohnao/Gordonjohnao/blob/main/mail.png"></a>
 </p>
 
