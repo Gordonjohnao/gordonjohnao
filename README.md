@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<a target="_blank" href="https://www.nextory.se">  <img src="TopImage\Screenshot_136_1.jpg" width="100%" title="Intro Card" alt="Intro Card"> </a>
+<a target="_blank" href="https://www.nextory.se">  <img src="TopImage\gordon.jpg" width="100%" title="Intro Card" alt="Intro Card"> </a>
 </p>
 
 I am full stack developer and a Founder of [Querysoftke Technologies](https://querysoftke.com) looking to transform the society through technological trasformation.
