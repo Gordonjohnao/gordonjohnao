@@ -5,10 +5,10 @@
 <a target="_blank" href="https://www.nextory.se">  <img src="TopImage\gordon.jpg" width="100%" title="Intro Card" alt="Intro Card"> </a>
 </p>
 
-I am  Experienced Software Developer  and  Founder of [Querysoftke Technologies](https://querysoftke.com) adept in bringing forth expertise in design, installation, testing and maintenance of software systems. Equipped with a diverse and promising skill-set. Proficient in various platforms, languages, and embedded systems. Experienced with the latest cutting edge development tools and procedures. Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team. Consistently recognized as a hands-on and competent leader, skilled at coordinating cross-functional team in a fast-paced, deadline-driven environment to steer timely project completion within budgetary constraints.
+I am  Experienced Software Developer  and  Founder of [Querysoft Technologies](https://querysofts.com) adept in bringing forth expertise in design, installation, testing and maintenance of software systems. Equipped with a diverse and promising skill-set. Proficient in various platforms, languages, and embedded systems. Experienced with the latest cutting edge development tools and procedures. Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team. Consistently recognized as a hands-on and competent leader, skilled at coordinating cross-functional team in a fast-paced, deadline-driven environment to steer timely project completion within budgetary constraints.
 If you found value in something I have created, please feel free to give me a shout out [@gordonjohnao](https://twitter.com/gordonjohnao/) or give some ♥ on mail - (gordonjohnao@gmail.com). Feel free to reach out in case you want to just get in touch also.
 
-<p align="center">View my portfolio at 👨‍💻 <a href="https://gordon.querysoftke.com" target="_blank">gordon.querysoftke.com</a>  </p>
+<p align="center">View my portfolio at 👨‍💻 <a href="https://gordon.querysofts.com" target="_blank">gordon.querysofts.com</a>  </p>
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/gordon-johnsons/"><img height="30" src="https://github.com/Gordonjohnao/Gordonjohnao/blob/main/linkedin.png"></a>&nbsp;&nbsp;
